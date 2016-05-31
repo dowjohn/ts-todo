@@ -6,7 +6,7 @@
 
 ###Download through GitHub
 
-###URL: Download @ https://github.com/dowjohn/ts-skeleton
+###URL: Download @ https://github.com/dowjohn/ts-todo
 
 ###Setup: Download through GitHub, then in terminal: npm install && bower install && gulp build && gulp serve
 

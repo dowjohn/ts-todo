@@ -1,9 +1,9 @@
 {
-  "name": "ts-skeleton",
+  "name": "ts-todo",
   "description": "",
   "main": "index.js",
   "license": "ISC",
-  "homepage": "https://github.com/dowjohn/ts-skeleton",
+  "homepage": "https://github.com/dowjohn/ts-todo",
   "ignore": [
     "**/.*",
     "node_modules",
